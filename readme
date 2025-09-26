@@ -1,2 +1,4 @@
 to ensure the relax_structure are read, don't use skip-relax: python workflow_with_parallel.py --monitor --skip-optical
 if rerun structrure relax, delete the final_structure.vasp in relax_volume folder
+
+band structure uses line-mode
